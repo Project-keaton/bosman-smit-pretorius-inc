@@ -1,0 +1,5 @@
+# robots.txt — Bosman Smit Pretorius Inc
+User-agent: *
+Allow: /
+
+Sitemap: https://www.bosmansmitpretorius.co.za/sitemap.xml

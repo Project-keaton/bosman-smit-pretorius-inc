@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b2b2b"/><stop offset=".55" stop-color="#151515"/><stop offset="1" stop-color="#050505"/></linearGradient>
+<pattern id="p" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
+<rect width="100%" height="100%" fill="url(#g)"/><rect width="100%" height="100%" fill="url(#p)"/>
+<g transform="translate(600 670)" fill="none" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".55">
+<path d="M0 -60V60M-40 60H40M-70 -40H70M0 -60l0 0"/><circle cx="0" cy="-64" r="5"/>
+<path d="M-70 -40l-25 55h50zM70 -40l-25 55h50z"/><path d="M-95 15a25 10 0 0 0 50 0M45 15a25 10 0 0 0 50 0"/></g>
+<text x="50%" y="780" text-anchor="middle" font-family="Georgia,serif" font-size="22" letter-spacing="4" fill="#9a9a9a" opacity=".7">REPLACE: images/about-office.svg</text>
+</svg>
